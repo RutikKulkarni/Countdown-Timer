@@ -4,7 +4,6 @@ This web application allows users to input a specific date and time, after which
 
 ### Live Demo
 
-- [Live URL](https://countdown-timer-umber-five.vercel.app/)
 - [CodeSandbox Link](https://codesandbox.io/p/sandbox/countdown-timer-9rrq59)
 
 ## Features
